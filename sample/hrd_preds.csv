@@ -1,0 +1,3 @@
+,features,scores
+0,../sample/tile-features/resnet18-camelyon_catavgmax/tcga_sample/TCGA-13-A5FT-01Z-00-DX1.pt,0.1356533
+1,../sample/tile-features/resnet18-camelyon_catavgmax/tcga_sample/TCGA-13-A5FU-01Z-00-DX1.pt,0.17774846

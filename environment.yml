@@ -1,0 +1,21 @@
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.8.*
+  - pytorch=1.12.*
+  - torchvision=0.13.*
+  - cudatoolkit=11.3.*
+  - pip:
+    - albumentations==1.2.*
+    - einops==0.4.*
+    - jupyterlab==3.4.*
+    - opencv-python==4.6.*
+    - pandas==1.4.*
+    - rich==12.5.*
+    - pytorch-lightning==1.7.*
+    - torchmetrics==0.9.*
+    - timm==0.6.*
+    - transformers==4.21.*
+    - git+https://github.com/DBO-DKFZ/slide_tools.git

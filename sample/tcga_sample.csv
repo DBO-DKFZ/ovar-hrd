@@ -1,0 +1,3 @@
+PatientID,HRD Score,#slides,slide,annotation,HRD(BRCA1)
+TCGA-13-A5FT,46.0,1,sample/slides/TCGA-13-A5FT-01Z-00-DX1.2B292DC8-7336-4CD9-AB1A-F6F482E6151A.svs,sample/annotations/TCGA-13-A5FT-01Z-00-DX1.geojson,0
+TCGA-13-A5FU,50.0,1,sample/slides/TCGA-13-A5FU-01Z-00-DX1.9AD9E4B9-3F87-4879-BC0F-148B12C09036.svs,sample/annotations/TCGA-13-A5FU-01Z-00-DX1.geojson,0
