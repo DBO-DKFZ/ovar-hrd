@@ -64,7 +64,7 @@ python extract.py --encoder_name resnet18-camelyon_catavgmax \
 This step will use the extracted tile features and predict an HRD score per WSI.
 ````
 cd 3_predict
-python predict.py --preds_folder ../sample/test_extract/default-name/tcga_sample \
+python predict.py --preds_folder ../sample/tile-features/resnet18-camelyon_catavgmax/tcga_sample \
     --model_path "ago_train-mannheim_train_seed=26694295_auroc=0.78250_epoch=74.pt" \
     --save_path ../sample/hrd_preds.csv
 ````
